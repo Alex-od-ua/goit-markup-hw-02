@@ -48,6 +48,15 @@ hover-style:focus {
   color: var(--second-text-color);
 }
 
+.link-style {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: var(--primary-text-color);
+}
+
 /* Основной контент - главная */
 
 .hero-section {
